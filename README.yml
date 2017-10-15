@@ -1,0 +1,23 @@
+---
+owner:
+    hid: 102
+    name: Dianprakasa, Arif
+    url: https://github.com/bigdata-i523/hid102
+paper1:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Dianprakasa, Arif
+    chapter: TBD
+    hid:
+        - 102
+    title: This is my paper about xyz
+    url: https://github.com/bigdata-i523/hid102/paper1/paper1.pdf
+paper2:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Gregor von Laszewski
+    hid:
+        - 0
+    title: Benchmarking a BigData Docker deployment
+    type: report
+    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
