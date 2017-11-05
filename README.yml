@@ -13,6 +13,7 @@ paper1:
     title: This is my paper about xyz
     url: https://github.com/bigdata-i523/hid102/paper1/paper1.pdf
 paper2:
+    review: Nov 6 2017
     abstract: This paper showcases tis and that and the other
     author:
         - Gregor von Laszewski
