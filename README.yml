@@ -7,7 +7,7 @@ paper1:
     abstract: This paper showcases tis and that and the other
     author:
         - Dianprakasa, Arif
-    chapter: TBD
+    chapter: Technology
     hid:
         - 102
     title: This is my paper about xyz
@@ -17,6 +17,7 @@ paper2:
     abstract: This paper showcases tis and that and the other
     author:
         - Gregor von Laszewski
+    chapter: Technology
     hid:
         - 0
     title: Benchmarking a BigData Docker deployment
