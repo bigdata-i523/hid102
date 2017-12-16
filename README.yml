@@ -23,7 +23,6 @@ paper2:
     hid:
         - 102
     title: TBD
-    type: report
     url: https://github.com/bigdata-i523/sample-pid000/project/
 project:
     exclude: True
